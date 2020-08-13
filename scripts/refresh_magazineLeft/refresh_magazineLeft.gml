@@ -1,0 +1,1 @@
+magazineLeft = weaponsHeld[# 1, weaponInd]

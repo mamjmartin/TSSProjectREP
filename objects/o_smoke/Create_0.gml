@@ -1,0 +1,13 @@
+Function = ds_map_create()
+targetArrived = false
+dir = point_direction(o_player.x, o_player.y, mouse_x, mouse_y)
+v = 720
+vH = 480
+s = 0
+y_offset = 0
+bounceLostConstant = 30
+bounceLostProportion = 0.6
+bounceStopped = false
+frictionAcc = 400
+destroyTime = 2
+smokeCollisionList = ds_list_create()

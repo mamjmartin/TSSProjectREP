@@ -1,0 +1,1 @@
+ammoLeft = weaponsHeld[# 2, weaponInd]

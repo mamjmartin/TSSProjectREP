@@ -1,0 +1,1 @@
+draw_sprite_ext(s_itemsbar,itemSelected,10,730,1,1,0,c_white,1)
